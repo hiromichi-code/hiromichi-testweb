@@ -1,0 +1,167 @@
+.main {
+  height: 100px;
+}
+
+.main-title>h1 {
+  margin: 0px;
+  padding-left: 160px;
+  color: #408060;
+}
+
+.main-title>h2 {
+  margin: 0px;
+  padding-left: 160px;
+  color: #408060;
+}
+
+ul {
+  list-style: none;
+}
+
+.menu {
+  float: right;
+  margin-right: 160px;
+}
+
+.menu-list{
+  padding: 0px 20px;
+  float: left;
+  font-weight: bold;
+}
+
+.menu-list:hover {
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.header-logo {
+  float: left;
+  margin: 0px;
+  padding: 8px 0px 8px 160px;
+}
+
+footer {
+  background: #408060;
+  height: 300px;
+  width: 100%;
+  float: left;
+  color: #fff;
+}
+
+.footer-logo {
+  float:left;
+  font-size: 20px;
+  padding: 48px 0px 0px 160px;
+  font-weight: bold;
+}
+
+.footer-list {
+  padding: 24px 160px 0px 0px;
+  float: right;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  height: 64px;
+  background:  #408060;
+  color: #fff;
+  
+}
+
+.primary-button {
+  display: inline-block;
+  width: 176px;
+  height: 48px;
+  color: #fff;
+  font-size: 20px;
+  background-color: #408060;
+  margin: 48px 0px 0px 104px;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
+}
+
+.primary-button:hover {
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.secondary-button {
+  display: inline-block;
+  width: 176px;
+  height: 48px;
+  color: black;
+  font-size: 20px;
+  background-color: #fff;
+  margin: 48px 0px 0px 112px;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
+}
+
+.secondary-button:hover {
+  cursor: pointer;
+  opacity: 0.4;
+}
+
+.home-img {
+  width: 496px;
+  float: left;
+  margin: 160px 96px;
+}
+
+.about-img {
+  width: 496px;
+  float: right;
+  margin: 146px 160px 0px 0px;
+}
+
+.about-article>p {
+  width: 416px;
+  float: right;
+  margin: 80px 160px 0px 0px;
+  padding: 32px;
+  border-radius: 4px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
+}
+
+
+.service-img {
+  width: 496px;
+  float: left;
+  margin: 146px 96px;
+}
+
+.home-article {
+  height:645px;
+}
+
+.home-article>p {
+  width: 416px;
+  float: left;
+  margin: 80px 0px 0px 96px;
+  padding: 32px;
+  border-radius: 4px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
+}
+
+.about-article {
+  height: 792px;
+}
+
+.service-article {
+  height: 792px;
+}
+
+.service-article>p {
+  width: 416px;
+  float: left;
+  margin: 112px 0px 0px 96px;
+  padding: 32px;
+  border-radius: 4px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
+}
