@@ -193,3 +193,9 @@ header {
   border-radius: 4px;
   box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .1)
 }
+
+.l-contact {
+  margin-top: 96px;
+  display: flex;
+  justify-content: center;
+}
